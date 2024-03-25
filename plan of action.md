@@ -67,5 +67,5 @@ Activities: Experimenting with advanced concepts and libraries.
 
 Objective: Enhance project, gather feedback, reflect on learning journey.
 Activities: Adding features to my project, seeking feedback, reflection.
-		Sicut me Deus
+		_Sicut me Deus-
 
